@@ -87,7 +87,7 @@ A plataforma reúne **4 módulos integrados** que substituem vários sistemas se
 |---|---|---|---|
 | **Essencial** | R$ 299/mês | Lojista que quer agilidade | Simulações ilimitadas em 10+ bancos, estoque, CRM, suporte WhatsApp |
 | **Profissional** | R$ 399/mês | Lojista que quer crescer | Tudo do Essencial + Repasse B2B por leilão + Chatbot para captura de leads + SEO e copy por IA |
-| **Premium** | R$ 499/mês | Lojista que quer presença digital completa | Tudo do Profissional + Site profissional pra loja + Templates personalizáveis + Google Analytics + Relatórios de conversão |
+| **Premium** | R$ 499/mês | Lojista que quer presença digital completa | Tudo do Profissional + Site profissional pra loja + Templates personalizáveis + Simulador diretamente no seu site + Google Analytics + Relatórios de conversão |
 
 ---
 
